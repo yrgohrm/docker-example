@@ -11,6 +11,7 @@ talked about in some lectures here and there.
 ## Get it all up and running
 
 To build the projects and build the docker images you need the following tools:
+* Java 11+
 * Maven
 * NodeJS & NPM
 * Docker Desktop
